@@ -1,6 +1,7 @@
+![logo](Dipesh.jpg)
 <h1 align="center">Hi 👋, I'm Dipesh Yadav</h1>
 <h3 align="center">A passionate Frontend developer, Fullstack Developer...</h3>
-
+<img align="right" alt="coding" width="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDF1bm9uajMxZTIwYTJ1a2Zma3NlZmNlZWRhNTJhcG1qdWl0a3BrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1oF1KAEYvmXBMo6uTS/giphy.gif">
 - 🔭 I’m currently working on **Netflix clone**
 
 - 🌱 I’m currently learning **Next.js, courses etc.**
